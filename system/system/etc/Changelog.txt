@@ -1,0 +1,68 @@
+====================
+    05-07-2022     
+====================
+
+====================
+    05-06-2022     
+====================
+
+* frameworks/base
+a364007  base: Add ENABLE_TASKBAR setting  [LuK1337]
+20ab707  frameworks/base: Provide required permission for cellbroadcastreceiver  [johnmart19]
+
+
+====================
+    05-05-2022     
+====================
+
+* frameworks/base
+cdecfb9  SystemUI: Let screenshot window ignore screen decorations  [LuK1337]
+be6fa61  add com.android.phone to indicator exemptions  [Daniel Micay]
+ef40f24  add com.android.bluetooth to indicator exemptions  [Daniel Micay]
+
+
+====================
+    05-04-2022     
+====================
+
+* build/make
+72e5213  Merge tag 'android-12.1.0_r5' of https://android.googlesource.com/platform/build into HEAD  [NurKeinNeid]
+
+
+* frameworks/base
+b0b0544  SystemUI: use system color accent for privacy indicators  [dlwlrma123]
+08f5032  PixelPropsUtils: Update fingerprints to May 2022  [NurKeinNeid]
+2c1fed4  Merge tag 'android-12.1.0_r5' of https://android.googlesource.com/platform/frameworks/base into HEAD  [NurKeinNeid]
+
+
+* manifest
+65f24cc  Merge tag 'android-12.1.0_r5' of https://android.googlesource.com/platform/manifest into HEAD  [NurKeinNeid]
+
+
+* packages/apps/DerpLauncher
+1c32787  DerpLauncher: Update Russian translations  [NurKeinNeid]
+acbfcc0  DerpLauncher: Make taskbar untouchable during transitions  [Pranav Vashi]
+d9825bf  DerpLauncher: Improve taskbar state controller for resume  [Pranav Vashi]
+
+
+* packages/apps/Settings
+df8eabc  Settings: Hide settings that don't work when taskbar is enabled  [LuK1337]
+a8ce06b  Merge tag 'android-12.1.0_r5' of https://android.googlesource.com/platform/packages/apps/Settings into HEAD  [NurKeinNeid]
+
+
+* packages/services/Telecomm
+7336599  Merge tag 'android-12.1.0_r5' of https://android.googlesource.com/platform/packages/services/Telecomm into 12.1-bak  [NurKeinNeid]
+
+
+* system/bt
+89d8ba1  Merge tag 'android-12.1.0_r5' of https://android.googlesource.com/platform/system/bt into HEAD  [NurKeinNeid]
+
+
+====================
+    05-03-2022     
+====================
+
+* manifest
+2bc59ba  Manifest for Android 12.1.0 Release 5 (SP2A.220505.002)  [The Android Open Source Project]
+
+
